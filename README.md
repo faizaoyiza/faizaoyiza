@@ -44,7 +44,7 @@ I’m a graduate student in Information Systems, currently transitioning into th
 
 ### 💬 Let's Connect
 - 📧 Email: faiza.oyiza@gmail.com
-- 🌐 Portfolio Website: [Coming soon!]
+- 🌐 Portfolio Website: [https://faizaoyiza.github.io/Github-portfolio/]
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
